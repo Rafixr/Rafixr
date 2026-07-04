@@ -9,19 +9,39 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const rafi = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+  role: "Cybersecurity Researcher | Ethical Hacker | Penetration Tester | Trainer",
+  code: ["Python", "C#", "C++", "JavaScript", "HTML", "CSS", "SQL", "Bash"],
+  tools: [
+    "Kali Linux",
+    "Burp Suite",
+    "Wireshark",
+    "Nmap",
+    "Metasploit",
+    "Docker",
+    "Git",
+    "Firebase",
+    "MongoDB"
+  ],
+  interests: [
+    "Offensive Security",
+    "Web Security",
+    "Network Security",
+    "Reverse Engineering",
+    "Malware Analysis",
+    "Cloud Security"
+  ],
+  currentlyLearning: [
+    "Advanced Exploit Development",
+    "Kernel Internals",
+    "Cloud Security",
+    "Detection Engineering"
+  ],
+  challenge: "Breaking things in the lab so attackers can't break them in production."
+};
 ```
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
